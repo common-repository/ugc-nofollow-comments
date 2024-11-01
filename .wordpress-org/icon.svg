@@ -1,0 +1,17 @@
+<svg width="711.071" height="705.0700000000002" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle stroke="null" id="svg_1" r="322.667999" fill="#111111" cy="345.560601" cx="358.401464"/>
+  <g fill="#F4B300" id="svg_2">
+   <path id="svg_3" fill="#F4B300" d="m505.313643,146.999144c25.523,0 37.176,11.652 37.176,37.732l0,172.01c0,24.413 -11.652,36.065 -37.176,36.065l-121.516,0l-134.279,108.2l27.744,-108.2l-41.615,0c-25.523,0 -37.731,-11.652 -37.731,-37.176l0,-170.899c0,-26.08 12.208,-38.286 37.731,-37.732l269.666,0zm-236.375,106.535l202.529,0l0,-36.62l-202.529,0l0,36.62zm202.529,32.738l-202.529,0l0,36.622l202.529,0l0,-36.622z"/>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="40" id="svg_4" y="565.692588" x="190.25446" stroke-width="0" fill="#F4B300">rel="nofollow ugc"</text>
+  <polyline stroke-linecap="round" id="svg_5" points="182.84354606594013,529.1650438125439 182.84354606594013,529.1650438125439 " stroke-opacity="null" stroke-width="null" stroke="null" fill="none"/>
+  <polyline stroke="null" stroke-linecap="round" id="svg_6" points="317.5299285649312,554.5020860648293 317.5299285649312,554.5020860648293 " stroke-width="null" fill="none"/>
+ </g>
+</svg>
